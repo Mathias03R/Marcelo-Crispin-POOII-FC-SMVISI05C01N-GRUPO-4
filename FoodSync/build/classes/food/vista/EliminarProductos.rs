@@ -1,0 +1,2 @@
+vista.EliminarProductos$1
+vista.EliminarProductos

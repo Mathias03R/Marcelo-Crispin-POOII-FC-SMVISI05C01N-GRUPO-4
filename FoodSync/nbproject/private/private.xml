@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/vista/EliminarProductos.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/modelo/User.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Observer/Subject.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/comida/Comida.txt</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Repository/ComidaRepository.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Observer/Strategy/EmailNotificationStrategy.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/vista/PantallaPrincipal.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Observer/FechasDeVencimientoObserver.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/controlador/PantallaPrincipalControlador.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Observer/Observer.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Observer/Strategy/InAppNotificacionStrategy.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Observer/Notificacion.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/modelo/Comida.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/vista/AgregarProductos.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Observer/Strategy/SMSNotificacionStrategy.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/controlador/BuscarProductoControlador.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/controlador/CrearCuentaControlador.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/controlador/MainControlador.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Observer/FechasDeVencimientoSubject.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Repository/FileUserRepository.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/vista/CrearCuenta.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/controlador/EliminarProductosControlador.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/controlador/AgregarProductosControlador.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Repository/FileComidaRepository.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/vista/InicioSesion.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Repository/UserRepository.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/controlador/InicioSesionControlador.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/controlador/PantallaNotificacionesControlador.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/vista/PantallaNotificaciones.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/Observer/Strategy/NotificacionStrategy.java</file>
+            <file>file:/D:/NetBeansProjects/FoodSync%20(2)/FoodSync/src/vista/BuscarProducto.java</file>
+        </group>
+    </open-files>
+</project-private>
